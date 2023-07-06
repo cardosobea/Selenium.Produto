@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\Win\Downloads\Java-Selenium-main\Java-Selenium-main\.metadata\.plugins\org.eclipse.jdt.core
+1860279665.index
